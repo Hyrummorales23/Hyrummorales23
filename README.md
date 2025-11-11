@@ -42,14 +42,18 @@ Here's a toolbox of the technologies I work with:
 
 Here are some of the projects I've been working on. Feel free to explore the code!
 
-**[🔗 Project 1 Title]**
-Short description of what this project does, what problem it solves, and the key technologies used (e.g., React, Node.js, MongoDB).
+**To-do List**
+To-do list app created with React and Vite with HMR and some ESLint rules.
+https://github.com/Hyrummorales23/react-to-do-list
 
-**[🔗 Project 2 Title]**
-Short description of what this project does, what problem it solves, and the key technologies used (e.g., Next.js, TypeScript, Tailwind).
+**TrackStar API**
+A personal task and habit tracker API built with Node.js, Express, and MongoDB.
+https://github.com/Hyrummorales23/trackstar-api
 
-**[🔗 Project 3 Title]**
-Short description of what this project does, what problem it solves, and the key technologies used (e.g., Python, C#).
+**Pokemon Quiz**
+A fun quiz app that helped develop my skills in css, html and JavaScript.
+https://github.com/Hyrummorales23/WDD330-FinalProject
+https://hyrummorales23.github.io/WDD330-FinalProject/
 
 > *More projects can be found in my [Repositories](https://github.com/hyrummorales23?tab=repositories).*
 
